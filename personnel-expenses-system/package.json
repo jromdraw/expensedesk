@@ -1,0 +1,8 @@
+{
+  "name": "expensedesk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local personnel and expense management system backed by SQLite",
+  "scripts": { "start": "node --watch server.js" },
+  "engines": { "node": ">=22.5" }
+}
